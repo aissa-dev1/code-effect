@@ -14,7 +14,7 @@ Welcome to the **Falling Text Effect** project! This repository showcases a dyna
 ## Demo
 
 Check out the TikTok video demonstrating this effect:
-- [TikTok Video](https://www.tiktok.com/@aissa_dev/video/7405848824788323590)
+- [TikTok Video](https://www.tiktok.com/@aissa_dev/video/7407057184019746054)
 
 ## Features
 
