@@ -1,6 +1,6 @@
-# Code Effect
+# Falling Text Effect
 
-Welcome to the **Code Effect** project! This repository showcases a dynamic characters effect created using TypeScript. The effect characters falling across the screen, with each character has its own size and speed. This project was designed for a TikTok video to demonstrate cool JavaScript visual effects.
+Welcome to the **Falling Text Effect** project! This repository showcases a dynamic characters effect created using TypeScript. The effect characters falling across the screen, with each character has its own size and speed. This project was designed for a TikTok video to demonstrate cool JavaScript visual effects.
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Check out the TikTok video demonstrating this effect:
 ## Installation
 
 1. **Clone the repository**:
-   git clone https://github.com/aissa-dev1/code-effect.git
+   git clone https://github.com/aissa-dev1/falling-text-effect.git
 2. **Navigate to the project directory**:
    cd code-effect
 3. **Install**:
