@@ -1,4 +1,4 @@
-# Code Effect 🌧️
+# Code Effect
 
 Welcome to the **Code Effect** project! This repository showcases a dynamic characters effect created using TypeScript. The effect characters falling across the screen, with each drop has its own size and speed. This project was designed for a TikTok video to demonstrate cool JavaScript visual effects.
 
