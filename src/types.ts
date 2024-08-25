@@ -16,6 +16,6 @@ export type CharacterOptions = {
   content: string;
 };
 
-export type EffectsManagerOptions = {
+export type EffectManagerOptions = {
   ctx: CanvasCtx;
 };

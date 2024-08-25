@@ -1,13 +1,13 @@
-import { EffectsManager } from "./effects-manager";
+import { EffectManager } from "./effect-manager";
 import { Canvas, CanvasCtx } from "./types";
 
 const c = document.querySelector(".game-canvas") as Canvas;
 const ctx = c.getContext("2d") as CanvasCtx;
 
-const effectsManager = new EffectsManager({
+const effectManager = new EffectManager({
   ctx,
 });
 
 document.addEventListener("DOMContentLoaded", () => {
-  effectsManager.start();
+  effectManager.start();
 });
